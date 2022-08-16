@@ -1407,7 +1407,7 @@ This demonstrates the function of the collection iterator method `each`, in part
 
 
 
-# Section 6 #
+# Section 6  - collections and methods #
 
 
 * Example 1 *
@@ -1595,7 +1595,7 @@ On line `5` we invoke the `p` method on `odd`, which outputs `[1,3]` to the cons
 This demonstrates the function of the `partition` method, and how it interacts with a block.
 
 
-# Section 7 #
+# Section 7  - truthyness #
 
 * Example 1 *
 *4:33*
